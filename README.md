@@ -1,6 +1,6 @@
 ## COLABORADORES
-#### Esther Candido
 #### Eliseu Candido
+#### Esther Candido
 #### Ruben Alves
 <hr/>
 
